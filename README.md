@@ -57,4 +57,4 @@ A battery-powered handheld instrument that checks **vermicompost quality** in th
 3. Run `vermi_calibration.ino` once to calibrate, then flash `vermi_partB_display`.
 
 ## Author
-**Keerthivasan J**, B.E. EEE, Sri Sairam Engineering College ([GitHub](https://github.com/Keerthivasan-cdm) · [LinkedIn](https://linkedin.com/in/keerthi-vasan-j))
+**Keerthivasan J**, B.E. EEE, Sri Sairam Engineering College ([GitHub](https://github.com/Keerthivasan-cdm) · [LinkedIn](https://linkedin.com/in/keerthi-vasan-j-))
